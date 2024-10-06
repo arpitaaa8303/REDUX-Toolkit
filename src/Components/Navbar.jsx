@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div>
       
-      i m navbar and count is :{count}
+      Item in cart is :{count}
      
     </div>
   )
